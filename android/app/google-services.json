@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "958473271620",
+    "firebase_url": "https://ccbcontrol-7ee48.firebaseio.com",
+    "project_id": "ccbcontrol-7ee48",
+    "storage_bucket": "ccbcontrol-7ee48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958473271620:android:0134e1c3f34a1edf927f11",
+        "android_client_info": {
+          "package_name": "com.matheusadsantos.listcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958473271620-inl800tqf0enj8osb9j5emn1vv8opebb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo86IGN4jyUszcfpFciBukaNyYnjUV9hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958473271620-inl800tqf0enj8osb9j5emn1vv8opebb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
